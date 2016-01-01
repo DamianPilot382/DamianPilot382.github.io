@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Libre-Baskerville'; /*a name to be used later*/
+    src: url('../fonts/LibreBaskerville-Regular-webfont.ttf'); /*URL to font*/
+}
+
+.baskerville{
+	font-family: 'Libre-Baskerville';
+}
