@@ -208,7 +208,7 @@
                             Visit our Etsy shop for amazing products!
                             <br>
                             <br>
-                            <a href="#" class="btn btn-default">Click here to visit our Etsy Store.</a>
+                            <a href="https://www.etsy.com/shop/SanMarinoHeritage" class="btn btn-default">Click here to visit our Etsy Store.</a>
                           </p>
                         </h3>
                       </div>
