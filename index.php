@@ -154,7 +154,7 @@
                             Visit our picture gallery for a collection of houses saved, at risk, and demolished.
                             <br>
                             <br>
-                            <a href="/gallery/index.php" class="btn btn-default">Click here to go to the picture gallery.</a>
+                            <a href="/gallery" class="btn btn-default">Click here to go to the picture gallery.</a>
                           </p>
                         </h3>
                       </div>
@@ -178,7 +178,7 @@
                             Visit our database of licensed architects for more information.
                             <br>
                             <br>
-                            <a href="/gallery/index.php" class="btn btn-default">Click here to go to architect database.</a>
+                            <a href="/architects0." class="btn btn-default">Click here to go to architect database.</a>
                           </p>
                         </h3>
                       </div>
