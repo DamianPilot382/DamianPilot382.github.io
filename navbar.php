@@ -9,7 +9,7 @@ echo"
                 <span class=\"icon-bar\"></span>
                 <span class=\"icon-bar\"></span>
             </button>
-            <a class=\"navbar-brand baskerville\" href=\"index.html\">San Marino Heritage</a>
+            <a class=\"navbar-brand baskerville\" href=\"/index.php\">San Marino Heritage</a>
         </div>
         <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">
             <ul class=\"nav navbar-nav navbar-right\">
@@ -23,10 +23,10 @@ echo"
                   <a href=\"/architects/index.php\">Architects</a>
                 </li>
                 <li>
-                  <a href=\"/map.html\">Map</a>
+                  <a href=\"/map.php\">Map</a>
                 </li>
                 <li>
-                  <a href=\"/join/index.html\">Join us</a>
+                  <a href=\"/join/index.php\">Join us</a>
                 </li>
             </ul>
         </div>

@@ -4,6 +4,12 @@
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <title>San Marino Heritage | Map</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/modern-business.css" rel="stylesheet">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="css/mystyle.css" rel="stylesheet" type="text/css">
+
     <style>
       html, body {
         height: 100%;
@@ -16,6 +22,9 @@
     </style>
   </head>
   <body>
+    <?php
+        include('navbar.php');
+    ?>
     <div id="map"></div>
     <script>
 function initMap() {

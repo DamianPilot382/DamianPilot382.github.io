@@ -9,7 +9,7 @@
         <meta name="description" content="San Marino Heritage">
         <meta name="author" content="Damian Ugalde">
 
-        <title>San Marino Heritage | Another Wilson Charmer</title>
+        <title>San Marino Heritage | 1406 Wilson Ave.</title>
 
         <link href="../css/bootstrap.min.css" rel="stylesheet">
         <link href="../css/modern-business.css" rel="stylesheet">
@@ -38,10 +38,10 @@
                 <div class="panel-body">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h1 class="page-header">Another Wilson Charmer</h1>
+                            <h1 class="page-header">1406 Wilson Ave.</h1>
                             <ol class="breadcrumb">
                                 <li><a href="../index.php">Home</a></li>
-                                <li class="active">Another Wilson Charmer</li>
+                                <li class="active">1406 Wilson Ave.</li>
                             </ol>
                         </div>
                     </div>
@@ -50,11 +50,11 @@
                     <!-- Portfolio Item Row -->
                     <div class="row">
                         <div class="col-md-8">
-                            <img class="img-responsive" src="../pictures/Full/Another_Wilson_Charmer.jpg" alt="">
+                            <img class="img-responsive" src="../pictures/Full/1406_Wilson.jpg" alt="">
                         </div>
 
                         <div class="col-md-4">
-                            <h3>Another Wilson Charmer</h3>
+                            <h3>1406 Wilson Ave.</h3>
                             <p>Insert a brief description of the picture here.</p>
                         </div>
                     </div>
