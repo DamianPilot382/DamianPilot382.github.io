@@ -25,47 +25,9 @@
     }
 	</style>
 
-
-    <!-- Navigation -->
-    <nav class="navbar navbar-custom navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand baskerville" href="../index.html">San Marino Heritage</a>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="../index.html">Home</a>
-                    </li>
-                    <li>
-                      <a href="../about/index.html">About</a>
-                    </li>
-                    <li>
-                      <a href="index.html">Gallery</a>
-                    </li>
-                    <li>
-                      <a href="../events/index.html">Events</a>
-                    </li>
-                    <li>
-                      <a href="../events/donate.html">Donate</a>
-                    </li>
-                    <li>
-                      <a href="../join-us/index.html">Join us</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
+    <?php
+        include('../navbar.php');
+    ?>
 
     <!-- Page Content -->
     <div class="container">
@@ -83,8 +45,8 @@
 		    <div class="row">
 				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
-                <a href="Harold-Bissner.html">
-         				<img src = "../pictures/Thumbnail/profile-placeholder.png" alt = "">
+                <a href="Harold-Bissner.php">
+         				<img src = "../pictures/Full/profile-placeholder.png" alt = "">
       				</div>
 
      				<div class = "caption">
@@ -94,8 +56,8 @@
 
    				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
-                <a href="Roland-Coate.html">
-         				<img src = "../pictures/Thumbnail/profile-placeholder.png" alt = "">
+                <a href="Roland-Coate.php">
+         				<img src = "../pictures/Full/profile-placeholder.png" alt = "">
       				</div>
 
      				<div class = "caption">
@@ -105,8 +67,8 @@
 
    				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
-                <a href="Miller-Fong.html">
-         				<img src = "../pictures/Thumbnail/profile-placeholder.png" alt = "">
+                <a href="Miller-Fong.php">
+         				<img src = "../pictures/Full/profile-placeholder.png" alt = "">
       				</div>
 
      				<div class = "caption">
@@ -118,8 +80,8 @@
             <div class="row">
 				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
-                <a href="Frank-D-Hudson.html">
-         				<img src = "../pictures/Thumbnail/profile-placeholder.png" alt = "">
+                <a href="Frank-D-Hudson.php">
+         				<img src = "../pictures/Full/profile-placeholder.png" alt = "">
       				</div>
 
      				<div class = "caption">
@@ -129,8 +91,8 @@
 
    				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
-                <a href="Myron-Hunt.html">
-         				<img src = "../pictures/Thumbnail/profile-placeholder.png" alt = "">
+                <a href="Myron-Hunt.php">
+         				<img src = "../pictures/Full/profile-placeholder.png" alt = "">
       				</div>
 
      				<div class = "caption">
@@ -140,8 +102,8 @@
 
    				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
-                <a href="Sylvanus-Martson.html">
-         				<img src = "../pictures/Thumbnail/profile-placeholder.png" alt = "">
+                <a href="Sylvanus-Martson.php">
+         				<img src = "../pictures/Full/profile-placeholder.png" alt = "">
       				</div>
 
      				<div class = "caption">
@@ -153,8 +115,8 @@
             <div class="row">
 				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
-                <a href="William-A-Munsell.html">
-         				<img src = "../pictures/Thumbnail/profile-placeholder.png" alt = "">
+                <a href="William-A-Munsell.php">
+         				<img src = "../pictures/Full/profile-placeholder.png" alt = "">
       				</div>
 
      				<div class = "caption">
@@ -164,8 +126,8 @@
 
    				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
-                <a href="Jack-De-Long.html">
-         				<img src = "../pictures/Thumbnail/profile-placeholder.png" alt = "">
+                <a href="Jack-De-Long.php">
+         				<img src = "../pictures/Full/profile-placeholder.png" alt = "">
       				</div>
 
      				<div class = "caption">
@@ -175,8 +137,8 @@
 
    				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
-                <a href="Paul-Williams.html">
-         				<img src = "../pictures/Thumbnail/profile-placeholder.png" alt = "">
+                <a href="Paul-Williams.php">
+         				<img src = "../pictures/Full/profile-placeholder.png" alt = "">
       				</div>
 
      				<div class = "caption">

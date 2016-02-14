@@ -154,7 +154,61 @@
                             Visit our picture gallery for a collection of houses saved, at risk, and demolished.
                             <br>
                             <br>
-                            <a href="/gallery/index.html" class="btn btn-default">Click here to go to the picture gallery.</a>
+                            <a href="/gallery/index.php" class="btn btn-default">Click here to go to the picture gallery.</a>
+                          </p>
+                        </h3>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12">
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4>Architects</h4>
+                    </div>
+                    <div class="panel-body">
+                      <div class="col-lg-6">
+                        <h3>
+                          <p>
+                            Visit our database of licensed architects for more information.
+                            <br>
+                            <br>
+                            <a href="/gallery/index.php" class="btn btn-default">Click here to go to architect database.</a>
+                          </p>
+                        </h3>
+                      </div>
+                      <div class="col-lg-6">
+                        <img class="img-responsive" style="margin: 0 auto;" src="pictures/Full/profile-placeholder.png" height="60%" width="60%" align="middle">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12">
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4>Etsy Store</h4>
+                    </div>
+                    <div class="panel-body">
+                      <div class="col-lg-6">
+                        <img class="img-responsive" align="middle" src="pictures/Assets/etsy_logo.png" height="100%" width="100%">
+                      </div>
+                      <div class="col-lg-6">
+                        <h3>
+                          <p>
+                            Visit our Etsy shop for amazing products!
+                            <br>
+                            <br>
+                            <a href="#" class="btn btn-default">Click here to visit our Etsy Store.</a>
                           </p>
                         </h3>
                       </div>
