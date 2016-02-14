@@ -17,19 +17,16 @@ echo"
                     <a href=\"/index.html\">Home</a>
                 </li>
                 <li>
-                  <a href=\"/about/index.html\">About</a>
+                  <a href=\"/about/index.html\">Gallery</a>
                 </li>
                 <li>
-                  <a href=\"/gallery/index.html\">Gallery</a>
+                  <a href=\"/gallery/index.html\">Architects</a>
                 </li>
                 <li>
-                  <a href=\"/events/index.html\">Events</a>
+                  <a href=\"/events/index.html\">Map</a>
                 </li>
                 <li>
-                  <a href=\"/events/donate.html\">Donate</a>
-                </li>
-                <li>
-                  <a href=\"/join-us/index.html\">Join us</a>
+                  <a href=\"/events/donate.html\">Join us</a>
                 </li>
             </ul>
         </div>

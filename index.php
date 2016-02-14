@@ -20,14 +20,10 @@
 
 <body>
 
-    <style type="text/css">
-        body {
-            background: url("pictures/wallpaper/bg.jpg") !important;
-            font-family: baskerville !important;
-        }
-    </style>
+    <?php
+        include('layout.php');
+    ?>
 
-    <!-- Navigation -->
     <?php
         include('navbar.php');
     ?>
