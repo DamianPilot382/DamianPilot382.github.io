@@ -40,7 +40,7 @@
                         <div class="col-lg-12">
                             <h1 class="page-header">Protesting in front of demolition</h1>
                             <ol class="breadcrumb">
-                                <li><a href="../index.html">Home</a></li>
+                                <li><a href="../index.php">Home</a></li>
                                 <li class="active">Protesting in front of demolition</li>
                             </ol>
                         </div>
@@ -50,7 +50,7 @@
                     <!-- Portfolio Item Row -->
                     <div class="row">
                         <div class="col-md-8">
-                            <img class="img-responsive" src="../pictures/Full/1406_Wilson_Demolition.jpg" alt="">
+                            <img class="img-responsive" src="../pictures/Full/1406_Wilson_Protest.jpg" alt="">
                         </div>
 
                         <div class="col-md-4">

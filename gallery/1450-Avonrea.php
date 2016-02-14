@@ -40,7 +40,7 @@
                         <div class="col-lg-12">
                             <h1 class="page-header">1450 Avonrea Rd.</h1>
                             <ol class="breadcrumb">
-                                <li><a href="../index.html">Home</a></li>
+                                <li><a href="../index.php">Home</a></li>
                                 <li class="active">1450 Avonrea Rd.</li>
                             </ol>
                         </div>
@@ -69,13 +69,7 @@
                         <?php
                             include('random.php');
                         ?>
-
-
-                        <div class="col-sm-3 col-xs-6">
-                            <a href="../gallery/1450-Avonrea.html">
-                                <img class="img-responsive img-hover img-related" src="../pictures/Thumbnail/1450_Avonrea_sm.jpg" alt="">
-                            </a>
-                        </div>
+                        
                     </div>
                 </div>
             </div>

@@ -91,7 +91,7 @@
 				<div class="row">
 				<div class = "col-sm-6 col-md-3 col-lg-3">
       				<div class = "thumbnail">
-                <a href="1404-Wilson.html">
+                <a href="1404-Wilson.php">
          				<img src = "../pictures/Thumbnail/1404_Wilson_sm.jpg" alt = "">
       				</div>
 
@@ -102,7 +102,7 @@
 
    				<div class = "col-sm-6 col-md-3 col-lg-3">
       				<div class = "thumbnail">
-                <a href="1406-Wilson.html">
+                <a href="1406-Wilson.php">
          				<img src = "../pictures/Thumbnail/1406_Wilson_sm.jpg" alt = "">
       				</div>
 

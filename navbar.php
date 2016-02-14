@@ -14,19 +14,19 @@ echo"
         <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">
             <ul class=\"nav navbar-nav navbar-right\">
                 <li>
-                    <a href=\"/index.html\">Home</a>
+                    <a href=\"/index.php\">Home</a>
                 </li>
                 <li>
-                  <a href=\"/about/index.html\">Gallery</a>
+                  <a href=\"/gallery/index.php\">Gallery</a>
                 </li>
                 <li>
-                  <a href=\"/gallery/index.html\">Architects</a>
+                  <a href=\"/architects/index.php\">Architects</a>
                 </li>
                 <li>
-                  <a href=\"/events/index.html\">Map</a>
+                  <a href=\"/map.html\">Map</a>
                 </li>
                 <li>
-                  <a href=\"/events/donate.html\">Join us</a>
+                  <a href=\"/join/index.html\">Join us</a>
                 </li>
             </ul>
         </div>

@@ -26,7 +26,7 @@
                 font-family: baskerville !important;
             }
         </style>
-        
+
         <?php
             include('../navbar.php');
         ?>
@@ -40,7 +40,7 @@
                         <div class="col-lg-12">
                             <h1 class="page-header">1404 Wilson Ave.</h1>
                             <ol class="breadcrumb">
-                                <li><a href="../index.html">Home</a></li>
+                                <li><a href="../index.php">Home</a></li>
                                 <li class="active">1404 Wilson Ave.</li>
                             </ol>
                         </div>
