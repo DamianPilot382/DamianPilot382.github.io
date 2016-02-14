@@ -25,47 +25,9 @@
     }
 	</style>
 
-
-    <!-- Navigation -->
-    <nav class="navbar navbar-custom navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand baskerville" href="../index.html">San Marino Heritage</a>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="../index.html">Home</a>
-                    </li>
-                    <li>
-                      <a href="../about/index.html">About</a>
-                    </li>
-                    <li>
-                      <a href="index.html">Gallery</a>
-                    </li>
-                    <li>
-                      <a href="../events/index.html">Events</a>
-                    </li>
-                    <li>
-                      <a href="../events/donate.html">Donate</a>
-                    </li>
-                    <li>
-                      <a href="../join-us/index.html">Join us</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
+    <?php
+        include('../navbar.php');
+    ?>
 
     <!-- Page Content -->
     <div class="container">
@@ -151,7 +113,7 @@
 
    				<div class = "col-sm-6 col-md-3 col-lg-3">
       				<div class = "thumbnail">
-                <a href="Protesting-In-Front-Of-Demolition.html">
+                <a href="1406-Wilson-Protest.php">
          				<img src = "../pictures/Thumbnail/1406_Wilson_Protest_sm.jpg" alt = "">
       				</div>
 
@@ -162,7 +124,7 @@
 
    				<div class = "col-sm-6 col-md-3 col-lg-3">
       				<div class = "thumbnail">
-                <a href="1406-Wilson-Demolition.html">
+                <a href="1406-Wilson-Demolition.php">
          				<img src = "../pictures/Thumbnail/1406_Wilson_Demolition_sm.jpg" alt = "">
       				</div>
 
@@ -174,7 +136,7 @@
    			<div class="row">
    				<div class = "col-sm-6 col-md-3 col-lg-3">
       				<div class = "thumbnail">
-                <a href="1450-Avonrea.html">
+                <a href="1450-Avonrea.php">
          				<img src = "../pictures/Thumbnail/1450_Avonrea_sm.jpg" alt = "">
       				</div>
 
@@ -185,7 +147,7 @@
 
    				<div class = "col-sm-6 col-md-3 col-lg-3">
       				<div class = "thumbnail">
-                <a href="Euclid-Colonial-Home.html">
+                <a href="Euclid-Colonial-Home.php">
          				<img src = "../pictures/Thumbnail/Euclid_Colonial_Home_sm.jpg" alt = "">
       				</div>
 
@@ -196,7 +158,7 @@
 
    				<div class = "col-sm-6 col-md-3 col-lg-3">
       				<div class = "thumbnail">
-                <a href="Los-Robles-Ranch-House.html">
+                <a href="Los-Robles-Ranch-House.php">
          				<img src = "../pictures/Thumbnail/Los_Robles_Ranch_House_sm.jpg" alt = "">
       				</div>
 
@@ -207,7 +169,7 @@
 
    				<div class = "col-sm-6 col-md-3 col-lg-3">
       				<div class = "thumbnail">
-                <a href="Pasqualito-Charmer.html">
+                <a href="Pasqualito-Charmer.php">
          				<img src = "../pictures/Thumbnail/Pasqualito_Charmer_sm.jpg" alt = "">
       				</div>
 
@@ -219,7 +181,7 @@
    			<div class="row">
    				<div class = "col-sm-6 col-md-3 col-lg-3">
       				<div class = "thumbnail">
-                <a href="Pasqualito-Home.html">
+                <a href="Pasqualito-Home.php">
          				<img src = "../pictures/Thumbnail/Pasqualito_Home_sm.jpg" alt = "">
       				</div>
 
@@ -230,7 +192,7 @@
 
    				<div class = "col-sm-6 col-md-3 col-lg-3">
       				<div class = "thumbnail">
-                <a href="The-Patton-Memorial.html">
+                <a href="Patton-Memorial.php">
          				<img src = "../pictures/Thumbnail/Patton_Memorial_sm.jpg" alt = "">
       				</div>
 
@@ -241,7 +203,7 @@
 
    				<div class = "col-sm-6 col-md-3 col-lg-3">
       				<div class = "thumbnail">
-                <a href="San-Marino-City-Hall.html">
+                <a href="San-Marino-City-Hall.php">
          				<img src = "../pictures/Thumbnail/San_Marino_City_Hall_sm.jpg" alt = "">
       				</div>
 
@@ -252,7 +214,7 @@
 
    				<div class = "col-sm-6 col-md-3 col-lg-3">
       				<div class = "thumbnail">
-                <a href="1424-Wilson.html">
+                <a href="1424-Wilson.php">
          				<img src = "../pictures/Thumbnail/1424_Wilson_sm.jpg" alt = "">
       				</div>
 
@@ -264,7 +226,7 @@
    			<div class="row">
    				<div class = "col-sm-6 col-md-3 col-lg-3">
       				<div class = "thumbnail">
-                <a href="Another-Wilson-Charmer.html">
+                <a href="Another-Wilson-Charmer.php">
          				<img src = "../pictures/Thumbnail/Another_Wilson_Charmer_sm.jpg" alt = "">
       				</div>
 
@@ -275,7 +237,7 @@
 
           <div class = "col-sm-6 col-md-3 col-lg-3">
               <div class = "thumbnail">
-                <a href="English-Tudor.html">
+                <a href="English-Tudor.php">
                 <img src = "../pictures/Thumbnail/English_Tudor_sm.jpg" alt = "">
               </div>
 
@@ -286,7 +248,7 @@
 
           <div class = "col-sm-6 col-md-3 col-lg-3">
               <div class = "thumbnail">
-                <a href="1316-Waverly.html">
+                <a href="1316-Waverly.php">
                 <img src ="../pictures/Thumbnail/1316_Waverly_sm.jpg" alt = "">
               </div>
 
