@@ -51,7 +51,7 @@
                     <!-- Portfolio Item Row -->
                     <div class="row">
                         <div class="col-md-4">
-                            <img style="margin: 0 auto;" class="img-responsive" src="../pictures/Thumbnail/profile-placeholder.png" alt="">
+                            <img style="margin: 0 auto;" class="img-responsive" src="../pictures/Full/profile-placeholder.png" alt="">
                         </div>
 
                         <div class="col-md-8" style="text-align:center;">

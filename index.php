@@ -22,9 +22,6 @@
 
     <?php
         include('layout.php');
-    ?>
-
-    <?php
         include('navbar.php');
     ?>
 

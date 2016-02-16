@@ -50,12 +50,12 @@
                     <!-- Portfolio Item Row -->
                     <div class="row">
                         <div class="col-md-4">
-                            <img style="margin: 0 auto;" class="img-responsive" src="../pictures/Thumbnail/profile-placeholder.png" alt="">
+                            <img style="margin: 0 auto;" class="img-responsive" src="../pictures/Full/profile-placeholder.png" alt="">
                         </div>
 
-                        <div class="col-md-8" style="text-align:center;">
-                            <h1><u><b>Harold Bissner<b></u></h1>
-                            <p><h3>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</h3></p>
+                        <div class="col-md-8" align="justify">
+                            <h1 style="text-align: center;"><u><b>Harold Bissner<b></u></h1>
+                            <p><h3>Bissner, Harold 1901-1988.  He is known for historic Fleur Drive.  Located in the coveted Mission District of San Marino this, historic architectural district iis a unique intact street of lovely Spanish Revival influenced homes all built in the mid-20s by renowned local architect, Harold J. Bissner and all meticulously maintained.</h3></p>
                         </div>
                     </div>
                     <!-- /.row -->

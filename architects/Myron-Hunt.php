@@ -51,12 +51,27 @@
                     <!-- Portfolio Item Row -->
                     <div class="row">
                         <div class="col-md-4">
-                            <img style="margin: 0 auto;" class="img-responsive" src="../pictures/Thumbnail/profile-placeholder.png" alt="">
+                            <img style="margin: 0 auto;" class="img-responsive" src="../pictures/Full/profile-placeholder.png" alt="">
                         </div>
 
-                        <div class="col-md-8" style="text-align:center;">
-                            <h1><u><b>Myron Hunt<b></u></h1>
-                            <p><h3>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</h3></p>
+                        <div class="col-md-8" >
+                            <h1 style="text-align:center;"><u><b>Myron Hunt<b></u></h1>
+                            <p><h3>Myron Hubbard Hunt (February 27, 1868 – May 26, 1952) was an American architect whose numerous projects include many noted landmarks in Southern California. Hunt was elected a Fellow in the American Institute of Architects in 1908.In the Southland alone, his projects included the Rose Bowl, the Hollywood Bowl, the Ambassador Hotel, Caltech, Riverside’s Mission Inn, Occidental College, Pasadena’s Central Library and Henry Huntington’s home in 1911 (which would become The Huntington’s Art Gallery) in 1911, along with Elmer Grey, and then Mr. Huntington’s Library around 1920.</p>
+                            <br>
+                            <ul>
+                                <li>1738 Chelsea</li>
+                                <li>1145 Oak Grove</li>
+                                <li>1000 Avondale</li>
+                                <li>870 Chester</li>
+                                <li>1600 Orlando</li>
+                                <li>999 Rosalind</li>
+                                <li>1150 Orlando</li>
+                                <li>1155 Oak Grove</li>
+                                <li>1336 Oxford</li>
+                            <ul>
+                            <br>
+                            <a href="http://www.pasadenaweekly.com/cms/story/detail/the_hunt_for_distinction/10495/" class="btn btn-default" target="_blank">Click here for more information.</a>
+                            </h3>
                         </div>
                     </div>
                     <!-- /.row -->

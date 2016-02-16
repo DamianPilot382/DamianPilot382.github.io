@@ -50,12 +50,12 @@
                     <!-- Portfolio Item Row -->
                     <div class="row">
                         <div class="col-md-4">
-                            <img style="margin: 0 auto;" class="img-responsive" src="../pictures/Thumbnail/profile-placeholder.png" alt="">
+                            <img style="margin: 0 auto;" class="img-responsive" src="../pictures/Full/profile-placeholder.png" alt="">
                         </div>
 
-                        <div class="col-md-8" style="text-align:center;">
-                            <h1><u><b>Frank D. Hudson<b></u></h1>
-                            <p><h3>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</h3></p>
+                        <div class="col-md-8" align="justify">
+                            <h1 style="text-align:center;"><u><b>Frank D. Hudson<b></u></h1>
+                            <p><h3>Born in Northern California, Hudson spent his childhood and attended public school in Oakland but spent time in college in the UK and graduated from London International College in 1885.  Later, he returned to work in San Francisco, CA, c. 1885-1895. He moved to Los Angeles, CA, in 1895.  He was appointed by Los Angeles Mayor Frederick Eaton (1856-03/11/1934) to be Building Inspector, 1899-1901.  He was a member of the Southern California AIA from 1902-1941.  He was a Partner at Hudson and [William A.O.] Munsell, Architects, Los Angeles, CA, 1901-1930s.  Hudson died in Los Angeles County, CA, at the age of 73.  His mother's maiden name was Muir.<br><br>worked on 1555 Wilson, and San Marino City Hall and worked with William A. Munsell on 2201 Oak Knoll Avenue.</h3></p>
                         </div>
                     </div>
                     <!-- /.row -->
