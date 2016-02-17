@@ -24,6 +24,10 @@
         include('layout.php');
         include('navbar.php');
     ?>
+    
+    <script type="text/javascript">
+        document.getElementById('myImage').draggable = false;
+    </script>
 
     <!-- Page Content -->
     <div class="container">
