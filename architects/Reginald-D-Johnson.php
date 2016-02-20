@@ -20,15 +20,8 @@
 
     <body>
 
-        <style type="text/css">
-            body {
-                background: url("../pictures/wallpaper/bg.jpg") !important;
-                font-family: baskerville !important;
-            }
-        </style>
-
-
         <?php
+            include('../layout.php');
             include('../navbar.php');
         ?>
 
@@ -51,7 +44,7 @@
                     <!-- Portfolio Item Row -->
                     <div class="row">
                         <div class="col-md-4">
-                            <img style="margin: 0 auto;" class="img-responsive" src="../pictures/Full/profile-placeholder.png" alt="">
+                            <img style="margin: 0 auto;" class="img-responsive" src="../pictures/Full/placeholder-architect.jpg" alt="">
                         </div>
 
                         <div class="col-md-8" >

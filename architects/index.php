@@ -19,13 +19,8 @@
 
 <body>
 
-	<style type="text/css">
-		body { background: url("../pictures/wallpaper/bg.jpg") !important;
-    font-family: baskerville !important;
-    }
-	</style>
-
     <?php
+        include('../layout.php');
         include('../navbar.php');
     ?>
 
@@ -57,7 +52,7 @@
    				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
                 <a href="Roland-Coate.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+         				<img src = "../pictures/Full/Architects/Roland_Coate.jpg" alt = "">
       				</div>
 
      				<div class = "caption">
@@ -175,7 +170,7 @@
                 <div class = "col-sm-6 col-md-4 col-lg-4">
                     <div class = "thumbnail">
                 <a href="Wallace-Neff.php">
-                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+                        <img src = "../pictures/Full/Architects/Wallace_Neff.jpg" alt = "">
                     </div>
 
                     <div class = "caption">
@@ -189,7 +184,7 @@
                 <div class = "col-sm-6 col-md-4 col-lg-4">
                     <div class = "thumbnail">
                 <a href="Theodore-Pletsch.php">
-                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+                        <img src = "../pictures/Full/Architects/Theodore_Pletsch.png" alt = "">
                     </div>
 
                     <div class = "caption">
@@ -200,11 +195,11 @@
                 <div class = "col-sm-6 col-md-4 col-lg-4">
                     <div class = "thumbnail">
                 <a href="Paul-R-Williams.php">
-                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+                        <img src = "../pictures/Full/Architects/Paul_R_Williams.jpg" alt = "">
                     </div>
 
                     <div class = "caption">
-                        <h3>Paul-R-Williams</a></h3>
+                        <h3>Paul R. Williams</a></h3>
                     </div>
                 </div>
 
