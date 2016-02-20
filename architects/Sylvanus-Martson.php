@@ -55,7 +55,21 @@
 
                         <div class="col-md-8" style="text-align:center;">
                             <h1><u><b>Sylvanus Martson<b></u></h1>
-                            <p><h3>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</h3></p>
+                            <p><h3>Sylvanus Marston with Edgar MAYBURY (Edgar Maybury worked as the employee in charge of Reginald D. Johnson and Gordon B. Kaufmann's new office in Phoenix, AZ, in 1920; Partner, Marston and Maybury, Architects, Pasadena, CA; Partner, Marston, Van Pelt and Maybury, Architects, Pasadena, CA. In 1942, Maybury operated an office in Altadena, CA)</p>'
+                                <ul>
+                                    <li>565 Sierra Vista</li>
+                                    <li>2290 Lombardy </li>
+                                    <li>2995 Lombardy</li>
+                                    <li>1025 Oak Grove</li>
+                                    <li>2955 E. California</li>
+                                    <li>2596 So Oak Knoll </li>
+                                    <li>2060 Roanoke</li>
+                                    <li>750 Chester </li>
+                                    <li> 3001 Lombardy</li>
+                                    <li>1975 Lombardy </li>
+                                    <li> 2200 Chaucer</li>
+                                </ul>
+                            </h3>
                         </div>
                     </div>
                     <!-- /.row -->

@@ -9,7 +9,7 @@
         <meta name="description" content="San Marino Heritage">
         <meta name="author" content="Damian Ugalde">
 
-        <title>San Marino Heritage | Myron Hunt</title>
+        <title>San Marino Heritage | H. Roy Kelly</title>
 
         <link href="../css/bootstrap.min.css" rel="stylesheet">
         <link href="../css/modern-business.css" rel="stylesheet">
@@ -39,10 +39,10 @@
                 <div class="panel-body">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h1 class="page-header">Myron Hunt</h1>
+                            <h1 class="page-header">H. Roy Kelly</h1>
                             <ol class="breadcrumb">
                                 <li><a href="../index.php">Home</a></li>
-                                <li class="active">Myron Hunt</li>
+                                <li class="active">H. Roy Kelly</li>
                             </ol>
                         </div>
                     </div>
@@ -55,22 +55,13 @@
                         </div>
 
                         <div class="col-md-8" >
-                            <h1 style="text-align:center;"><u><b>Myron Hunt<b></u></h1>
-                            <p><h3>Myron Hubbard Hunt (February 27, 1868 – May 26, 1952) was an American architect whose numerous projects include many noted landmarks in Southern California. Hunt was elected a Fellow in the American Institute of Architects in 1908.In the Southland alone, his projects included the Rose Bowl, the Hollywood Bowl, the Ambassador Hotel, Caltech, Riverside’s Mission Inn, Occidental College, Pasadena’s Central Library and Henry Huntington’s home in 1911 (which would become The Huntington’s Art Gallery) in 1911, along with Elmer Grey, and then Mr. Huntington’s Library around 1920.</p>
+                            <h1 style="text-align:center;"><u><b>H. Roy Kelly<b></u></h1>
+                            <p><h3>H. Roy Kelley, the revered architect whose credits date to his appointment to a 1931 Presidential Advisory Commission on Home Building by Herbert Hoover and who helped popularize ranch-style homes in the West.<br>Born in New York, he was educated at Cornell University, served in World War I and settled in Los Angeles in 1920.  Here he won the first of several national competitions for house design in 1929, including winner of several first prizes from House Beautiful magazine.  He also served on the architectural advisory board of Good Housekeeping magazine from 1931 to 1938 and was commissioned by Life magazine in 1937 to design a model home for all the nation. He served on the architectural advisory committees for Bel-Air Estates and Palos Verdes Estates and designed many homes in those communities.  He also designed several hospitals, churches and office buildings.<br>Kelley was a past board member of the American Institute of Architects and past president of the Los Angeles Architectural Club.</p>
                             <br>
                             <ul>
-                                <li>1738 Chelsea</li>
-                                <li>1145 Oak Grove</li>
-                                <li>1000 Avondale</li>
-                                <li>870 Chester</li>
-                                <li>1600 Orlando</li>
-                                <li>999 Rosalind</li>
-                                <li>1150 Orlando</li>
-                                <li>1155 Oak Grove</li>
-                                <li>1336 Oxford</li>
-                            <ul>
-                            <br>
-                            <a href="http://www.pasadenaweekly.com/cms/story/detail/the_hunt_for_distinction/10495/" class="btn btn-default">Click here for more information.</a>
+                                <li>730 Chaucer</li>
+                                <li>1320 Oak Grove</li>
+                                <li>2871 Cumberland</li>
                             </h3>
                         </div>
                     </div>

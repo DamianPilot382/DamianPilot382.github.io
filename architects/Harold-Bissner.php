@@ -55,7 +55,7 @@
 
                         <div class="col-md-8" align="justify">
                             <h1 style="text-align: center;"><u><b>Harold Bissner<b></u></h1>
-                            <p><h3>Bissner, Harold 1901-1988.  He is known for historic Fleur Drive.  Located in the coveted Mission District of San Marino this, historic architectural district iis a unique intact street of lovely Spanish Revival influenced homes all built in the mid-20s by renowned local architect, Harold J. Bissner and all meticulously maintained.</h3></p>
+                            <p><h3>Fleur Drive Bissner, Harold 1901-1988.  He is known for historic Fleur Drive.  Located in the coveted Mission District of San Marino this, historic architectural district is a unique intact street of lovely Spanish Revival influenced homes all built in the mid-20s by renowned local architect, Harold J. Bissner and all meticulously maintained.</h3></p>
                         </div>
                     </div>
                     <!-- /.row -->

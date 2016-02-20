@@ -9,7 +9,7 @@
         <meta name="description" content="San Marino Heritage">
         <meta name="author" content="Damian Ugalde">
 
-        <title>San Marino Heritage | Myron Hunt</title>
+        <title>San Marino Heritage | Reginald D. Johnson</title>
 
         <link href="../css/bootstrap.min.css" rel="stylesheet">
         <link href="../css/modern-business.css" rel="stylesheet">
@@ -39,10 +39,10 @@
                 <div class="panel-body">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h1 class="page-header">Myron Hunt</h1>
+                            <h1 class="page-header">Reginald D. Johnson</h1>
                             <ol class="breadcrumb">
                                 <li><a href="../index.php">Home</a></li>
-                                <li class="active">Myron Hunt</li>
+                                <li class="active">Reginald D. Johnson</li>
                             </ol>
                         </div>
                     </div>
@@ -55,23 +55,8 @@
                         </div>
 
                         <div class="col-md-8" >
-                            <h1 style="text-align:center;"><u><b>Myron Hunt<b></u></h1>
-                            <p><h3>Myron Hubbard Hunt (February 27, 1868 – May 26, 1952) was an American architect whose numerous projects include many noted landmarks in Southern California. Hunt was elected a Fellow in the American Institute of Architects in 1908.In the Southland alone, his projects included the Rose Bowl, the Hollywood Bowl, the Ambassador Hotel, Caltech, Riverside’s Mission Inn, Occidental College, Pasadena’s Central Library and Henry Huntington’s home in 1911 (which would become The Huntington’s Art Gallery) in 1911, along with Elmer Grey, and then Mr. Huntington’s Library around 1920.</p>
-                            <br>
-                            <ul>
-                                <li>1738 Chelsea</li>
-                                <li>1145 Oak Grove</li>
-                                <li>1000 Avondale</li>
-                                <li>870 Chester</li>
-                                <li>1600 Orlando</li>
-                                <li>999 Rosalind</li>
-                                <li>1150 Orlando</li>
-                                <li>1155 Oak Grove</li>
-                                <li>1336 Oxford</li>
-                            <ul>
-                            <br>
-                            <a href="http://www.pasadenaweekly.com/cms/story/detail/the_hunt_for_distinction/10495/" class="btn btn-default">Click here for more information.</a>
-                            </h3>
+                            <h1 style="text-align:center;"><u><b>Reginald D. Johnson<b></u></h1>
+                            <p><h3>This architect built the Mudd Estate (what is now the USC President’s home) at 1550 Oak Grove  in 1932, 980 Orlando in 1929,  and the Santa Barbara Biltmore and his own home at 1380 Lombardy.</p></h3>
                         </div>
                     </div>
                     <!-- /.row -->

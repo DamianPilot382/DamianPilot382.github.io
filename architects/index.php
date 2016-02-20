@@ -100,6 +100,56 @@
       				</div>
    				</div>
 
+                <div class = "col-sm-6 col-md-4 col-lg-4">
+                    <div class = "thumbnail">
+                <a href="Reginald-D-Johnson.php">
+                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+                    </div>
+
+                    <div class = "caption">
+                        <h3>Reginald D. Johnson</a></h3>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class = "col-sm-6 col-md-4 col-lg-4">
+                    <div class = "thumbnail">
+                <a href="Gordon-Kaufmann.php">
+                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+                    </div>
+
+                    <div class = "caption">
+                        <h3>Gordon Kaufmann</a></h3>
+                    </div>
+                </div>
+
+                <div class = "col-sm-6 col-md-4 col-lg-4">
+                    <div class = "thumbnail">
+                <a href="H-Roy-Kelly.php">
+                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+                    </div>
+
+                    <div class = "caption">
+                        <h3>H. Roy Kelly</a></h3>
+                    </div>
+                </div>
+
+                <div class = "col-sm-6 col-md-4 col-lg-4">
+                    <div class = "thumbnail">
+                <a href="Jack-De-Long.php">
+                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+                    </div>
+
+                    <div class = "caption">
+                        <h3>Jack De Long</a></h3>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+
    				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
                 <a href="Sylvanus-Martson.php">
@@ -110,9 +160,7 @@
          				<h3>Sylvanus Martson</a></h3>
       				</div>
    				</div>
-   			</div>
 
-            <div class="row">
 				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
                 <a href="William-A-Munsell.php">
@@ -124,27 +172,103 @@
       				</div>
    				</div>
 
-   				<div class = "col-sm-6 col-md-4 col-lg-4">
+                <div class = "col-sm-6 col-md-4 col-lg-4">
+                    <div class = "thumbnail">
+                <a href="Wallace-Neff.php">
+                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+                    </div>
+
+                    <div class = "caption">
+                        <h3>Wallace Neff</a></h3>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class = "col-sm-6 col-md-4 col-lg-4">
+                    <div class = "thumbnail">
+                <a href="Theodore-Pletsch.php">
+                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+                    </div>
+
+                    <div class = "caption">
+                        <h3>Theodore Pletsch</a></h3>
+                    </div>
+                </div>
+
+                <div class = "col-sm-6 col-md-4 col-lg-4">
+                    <div class = "thumbnail">
+                <a href="Paul-R-Williams.php">
+                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+                    </div>
+
+                    <div class = "caption">
+                        <h3>Paul-R-Williams</a></h3>
+                    </div>
+                </div>
+
+                <div class = "col-sm-6 col-md-4 col-lg-4">
+                    <div class = "thumbnail">
+                <a href="G-Lawrence-Stimpson.php">
+                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+                    </div>
+
+                    <div class = "caption">
+                        <h3>G Lawrence Stimpson</a></h3>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
-                <a href="Jack-De-Long.php">
+                <a href="Garrett-Van-Pelt.php">
          				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
       				</div>
 
      				<div class = "caption">
-         				<h3>Jack De Long</a></h3>
+         				<h3>Garrett Van Pelt</a></h3>
       				</div>
    				</div>
 
-   				<div class = "col-sm-6 col-md-4 col-lg-4">
-      				<div class = "thumbnail">
+                <div class = "col-sm-6 col-md-4 col-lg-4">
+                    <div class = "thumbnail">
                 <a href="Paul-Williams.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
-      				</div>
+                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+                    </div>
 
-     				<div class = "caption">
-         				<h3>Paul Williams</a></h3>
-      				</div>
-   				</div>
+                    <div class = "caption">
+                        <h3>Paul Williams</a></h3>
+                    </div>
+                </div>
+
+                <div class = "col-sm-6 col-md-4 col-lg-4">
+                    <div class = "thumbnail">
+                <a href="George-Washington-Smith.php">
+                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+                    </div>
+
+                    <div class = "caption">
+                        <h3>George Washington Smith</a></h3>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class = "col-sm-6 col-md-4 col-lg-4">
+                    <div class = "thumbnail">
+                <a href="Harold-Zook.php">
+                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+                    </div>
+
+                    <div class = "caption">
+                        <h3>Harold Zook</a></h3>
+                    </div>
+                </div>
+
    			</div>
 
         </div>
