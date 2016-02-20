@@ -49,6 +49,8 @@
                   <li data-target="#myCarousel" data-slide-to="1"></li>
                   <li data-target="#myCarousel" data-slide-to="2"></li>
                   <li data-target="#myCarousel" data-slide-to="3"></li>
+                  <li data-target="#myCarousel" data-slide-to="4"></li>
+                  <li data-target="#myCarousel" data-slide-to="5"></li>
                 </ol>
 
                 <!-- Wrapper for slides -->
@@ -68,6 +70,15 @@
                   <div class="item">
                     <img id="img-carousel" src="pictures/Full/Crates/Toucan.jpg" alt="Toucan">
                   </div>
+
+                  <div class="item">
+                    <img id="img-carousel" src="pictures/Full/Crates/El_Toreador_Orange.jpg" alt="El Toreador Orange">
+                  </div>
+
+                  <div class="item">
+                    <img id="img-carousel" src="pictures/Full/Crates/El_Molino.jpg" alt="El Molino">
+                  </div>
+
                 </div>
 
                 <!-- Left and right controls -->

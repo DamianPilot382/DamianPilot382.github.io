@@ -9,7 +9,7 @@
         <meta name="description" content="San Marino Heritage">
         <meta name="author" content="Damian Ugalde">
 
-        <title>San Marino Heritage | Harold-Bissner</title>
+        <title>San Marino Heritage | Harold Bissner</title>
 
         <link href="../css/bootstrap.min.css" rel="stylesheet">
         <link href="../css/modern-business.css" rel="stylesheet">

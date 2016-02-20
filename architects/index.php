@@ -19,13 +19,8 @@
 
 <body>
 
-	<style type="text/css">
-		body { background: url("../pictures/wallpaper/bg.jpg") !important;
-    font-family: baskerville !important;
-    }
-	</style>
-
     <?php
+        include('../layout.php');
         include('../navbar.php');
     ?>
 
@@ -46,7 +41,7 @@
 				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
                 <a href="Harold-Bissner.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+         				<img src = "../pictures/Assets/placeholder-architect.jpg" alt = "">
       				</div>
 
      				<div class = "caption">
@@ -57,7 +52,7 @@
    				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
                 <a href="Roland-Coate.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+         				<img src = "../pictures/Full/Architects/Roland_Coate.jpg" alt = "">
       				</div>
 
      				<div class = "caption">
@@ -68,7 +63,7 @@
    				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
                 <a href="Miller-Fong.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+         				<img src = "../pictures/Assets/placeholder-architect.jpg" alt = "">
       				</div>
 
      				<div class = "caption">
@@ -81,7 +76,7 @@
 				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
                 <a href="Frank-D-Hudson.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+         				<img src = "../pictures/Assets/placeholder-architect.jpg" alt = "">
       				</div>
 
      				<div class = "caption">
@@ -92,7 +87,7 @@
    				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
                 <a href="Myron-Hunt.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+         				<img src = "../pictures/Assets/placeholder-architect.jpg" alt = "">
       				</div>
 
      				<div class = "caption">
@@ -100,23 +95,34 @@
       				</div>
    				</div>
 
+          <div class = "col-sm-6 col-md-4 col-lg-4">
+              <div class = "thumbnail">
+                <a href="Jack-De-Long.php">
+                <img src = "../pictures/Assets/placeholder-architect.jpg" alt = "">
+              </div>
+
+            <div class = "caption">
+                <h3>Jack De Long</a></h3>
+              </div>
+          </div>
+        </div>
+
+        <div class="row">
    				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
                 <a href="Sylvanus-Martson.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+         				<img src = "../pictures/Assets/placeholder-architect.jpg" alt = "">
       				</div>
 
      				<div class = "caption">
          				<h3>Sylvanus Martson</a></h3>
       				</div>
    				</div>
-   			</div>
 
-            <div class="row">
 				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
                 <a href="William-A-Munsell.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+         				<img src = "../pictures/Assets/placeholder-architect.jpg" alt = "">
       				</div>
 
      				<div class = "caption">
@@ -124,21 +130,35 @@
       				</div>
    				</div>
 
-   				<div class = "col-sm-6 col-md-4 col-lg-4">
-      				<div class = "thumbnail">
-                <a href="Jack-De-Long.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
-      				</div>
+          <div class = "col-sm-6 col-md-4 col-lg-4">
+              <div class = "thumbnail">
+                <a href="Wallace-Neff.php">
+                <img src = "../pictures/Full/Architects/Wallace_Neff.jpg" alt = "">
+              </div>
 
-     				<div class = "caption">
-         				<h3>Jack De Long</a></h3>
-      				</div>
-   				</div>
+            <div class = "caption">
+                <h3>Wallace Neff</a></h3>
+              </div>
+          </div>
+        </div>
+
+        <div class="row">
+
+        <div class = "col-sm-6 col-md-4 col-lg-4">
+            <div class = "thumbnail">
+              <a href="Theodore-Pletsch.php">
+              <img src = "../pictures/Full/Architects/Theodore_Pletsch.png" alt = "">
+            </div>
+
+          <div class = "caption">
+              <h3>Theodore Pletsch</a></h3>
+            </div>
+        </div>
 
    				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
                 <a href="Paul-Williams.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
+         				<img src = "../pictures/Full/Architects/Paul_Williams.jpg" alt = "">
       				</div>
 
      				<div class = "caption">

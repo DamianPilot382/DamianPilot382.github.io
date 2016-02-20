@@ -35,7 +35,7 @@ function initMap() {
     var loc2 = {lat: 34.120409, lng: -118.120144}; //1485 Virginia Road
     var loc3 = {lat: 34.118865, lng: -118.123746}; //1280 St. Albans
     var loc4 = {lat: 34.129009, lng: -118.128287}; //1040 Oak Grove
-    var loc5 = {lat: 34.114220, lng: -118.111789}; //1862 Lorain Road
+    //var loc5 = {lat: 34.114220, lng: -118.111789}; //1862 Lorain Road
     var loc6 = {lat: 34.121549, lng: -118.105955}; //2200 Huntington Drive
     var loc7 = {lat: 34.128762, lng: -118.114374}; //1151 Oxford Road
     var loc8 = {lat: 34.125259, lng: -118.127262}; //1155 Oak Grove
@@ -75,11 +75,11 @@ function initMap() {
         title: 'Placeholder Text'
     });
 
-    var marker5 = new google.maps.Marker({
-        position: loc5,
-        map: map,
-        title: 'Placeholder Text'
-    });
+    //var marker5 = new google.maps.Marker({
+    //    position: loc5,
+    //    map: map,
+    //    title: 'Placeholder Text'
+    //});
 
     var marker6 = new google.maps.Marker({
         position: loc6,
