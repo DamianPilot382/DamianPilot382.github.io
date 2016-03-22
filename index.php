@@ -37,10 +37,33 @@
           </div>
           <hr>
           <br>
+
           <div class="row">
             <div class="col-lg-3">
             </div>
             <div class="col-lg-6">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <h3>
+                            <p style="text-align:center">Follow us on:</p>
+                        </h3>
+                        <center>
+                        <img style="margin:10px;" src="pictures/Assets/facebook.png">
+                        <img style="margin:10px;" src="pictures/Assets/etsy.gif">
+                        <img style="margin:10px;" src="pictures/Assets/youtube.png">
+                        <center>
+                        <br>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                </div>
+            </div>
+        </div>
+
+          <div class="row">
+            <div class="col-lg-2">
+            </div>
+            <div class="col-lg-8">
 
               <div id="myCarousel" class="carousel slide" data-ride="carousel">
                 <!-- Indicators -->
@@ -85,6 +108,58 @@
           </div>
 
           <br>
+
+          <div class="row">
+            <div class="col-lg-12">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <h3>
+                            <p style="text-align:center">Music courtesy of The Dad's Band Plus One, founded by San Marino native Mr. Andrew Campbell, from the album "The Nashville Sessions".</p>
+                        </h3>
+                        <br>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+
+        <!-- Marketing Icons Section -->
+        <div class="row">
+            <a name="contact"></a>
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="glyphicon glyphicon-envelope"></i> Contact Us</h4>
+                    </div>
+                    <div class="panel-body"><h3>
+                    <div class="col-md-6">
+                <ul>
+                    <li><strong>Email:</strong>
+                        <ul>
+                            <li>info@sanmarinoheritage.org</li>
+                        </ul>
+                    </li>
+                    <li><strong>Fax:</strong>
+                        <ul>
+                            <li>626-441-1400</li>
+                        </ul>
+                    </li>
+                    <li><strong>Address:</strong>
+                        <ul>
+                            <li>San Marino Heritage<br>1613 Chelsea Rd #312<br>San Marino, CA 91108</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-6">
+                <img class="img-responsive" src="pictures/Assets/sm_flag.png" alt="" style="border: 2px solid black;">
+            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
 
           <div class="row">
             <div class="col-lg-12">
@@ -187,78 +262,6 @@
                 </div>
             </div>
         </div>
-
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 col-md-12">
-                  <div class="panel panel-default">
-                    <div class="panel-heading">
-                      <h4>Etsy Store</h4>
-                    </div>
-                    <div class="panel-body">
-                      <div class="col-lg-6">
-                        <img class="img-responsive" align="middle" src="pictures/Assets/etsy_logo.png" height="100%" width="100%">
-                      </div>
-                      <div class="col-lg-6">
-                        <h3>
-                          <p>
-                            Visit our Etsy shop for amazing products!
-                            <br>
-                            <br>
-                            <a href="https://www.etsy.com/shop/SanMarinoHeritage" class="btn btn-default">Click here to visit our Etsy Store.</a>
-                          </p>
-                        </h3>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="container">
-
-        <!-- Marketing Icons Section -->
-        <div class="row">
-            <a name="contact"></a>
-            <div class="col-md-12">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h4><i class="glyphicon glyphicon-envelope"></i> Contact Us</h4>
-                    </div>
-                    <div class="panel-body"><h3>
-                    <div class="col-md-6">
-                <ul>
-                    <li><strong>Email:</strong>
-                        <ul>
-                            <li>info@sanmarinoheritage.org</li>
-                        </ul>
-                    </li>
-                    <li><strong>Phone Number:</strong>
-                        <ul>
-                            <li>626-441-1401</li>
-                        </ul>
-                    </li>
-                    <li><strong>Fax:</strong>
-                        <ul>
-                            <li>626-441-1400</li>
-                        </ul>
-                    </li>
-                    <li><strong>Address:</strong>
-                        <ul>
-                            <li>San Marino Heritage<br>1613 Chelsea Rd #312<br>San Marino, CA 91108</li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-md-6">
-                <img class="img-responsive" src="pictures/Assets/sm_flag.png" alt="" style="border: 2px solid black;">
-            </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-      </div>
-        <!-- /.row -->
 
         <!-- Call to Action Section -->
 
