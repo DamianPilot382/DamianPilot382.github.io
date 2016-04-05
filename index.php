@@ -118,6 +118,11 @@
                             <p style="text-align:center">Music courtesy of The Dad's Band Plus One, founded by San Marino native Mr. Andrew Campbell, from the album "The Nashville Sessions".</p>
                         </h3>
                         <br>
+                        <center>
+                        <?php
+                            include('music.php');
+                        ?>
+                    </center>
                     </div>
                 </div>
             </div>

@@ -7,7 +7,4 @@ echo "
     }
 </style>
 ";
-
-//include('music.php');
-
 ?>
