@@ -20,6 +20,9 @@ echo"
                   <a href=\"../gallery/index.php\">Gallery</a>
                 </li>
                 <li>
+                    <a href=\"../news/index.php\">News</a>
+                </li>
+                <li>
                   <a href=\"../architects/index.php\">Architects</a>
                 </li>
                 <li>
@@ -27,6 +30,12 @@ echo"
                 </li>
                 <li>
                   <a href=\"../join/index.php\">Join us</a>
+                </li>
+                <li>
+                    <a href=\"../donate/index.php\">Donate</a>
+                </li>
+                <li>
+                    <a href=\"../calendar/index.php\">Calendar</a>
                 </li>
             </ul>
         </div>

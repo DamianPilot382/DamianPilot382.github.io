@@ -32,10 +32,10 @@
                 <div class="panel-body">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h1 class="page-header">Garrett Van Pelt<</h1>
+                            <h1 class="page-header">Garrett Van Pelt</h1>
                             <ol class="breadcrumb">
                                 <li><a href="../index.php">Home</a></li>
-                                <li class="active">Garrett Van Pelt<</li>
+                                <li class="active">Garrett Van Pelt</li>
                             </ol>
                         </div>
                     </div>
@@ -48,7 +48,7 @@
                         </div>
 
                         <div class="col-md-8" align="justify">
-                            <h1 style="text-align:center;"><u><b>Garrett Van Pelt<<b></u></h1>
+                            <h1 style="text-align:center;"><u><b>Garrett Van Pelt<b></u></h1>
                             <p><h3>Worked with Sylvanus Marston and Edgar Maybury and independently.<br>Partners were Sylvanus Marston (1883-1946),Garrett Van Pelt (1879-1972) & Edgar Maybury. The firm designed a dozen custom homes in San Marino and hundreds in  the Pasadena area. A number of their works are listed on the U.S. National Register of Historic Places.</h3></p>
                         </div>
                     </div>

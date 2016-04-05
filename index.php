@@ -48,9 +48,9 @@
                             <p style="text-align:center">Follow us on:</p>
                         </h3>
                         <center>
-                        <img style="margin:10px;" src="pictures/Assets/facebook.png">
-                        <img style="margin:10px;" src="pictures/Assets/etsy.gif">
-                        <img style="margin:10px;" src="pictures/Assets/youtube.png">
+                        <a href="https://www.facebook.com/sanmarinoheritage/"><img style="margin:10px;" src="pictures/Assets/facebook.png"></a>
+                        <a href="https://www.etsy.com/shop/RosyMischief"><img style="margin:10px;" src="pictures/Assets/etsy.gif"></a>
+                        <a href="https://www.causes.com/causes/378040-san-marino-heritage"><img style="margin:10px;" src="pictures/Assets/causes.png"></a>
                         <center>
                         <br>
                     </div>
@@ -108,6 +108,7 @@
           </div>
 
           <br>
+          <div class="container">
 
           <div class="row">
             <div class="col-lg-12">
@@ -121,8 +122,6 @@
                 </div>
             </div>
         </div>
-
-        <div class="container">
 
         <!-- Marketing Icons Section -->
         <div class="row">
@@ -159,7 +158,6 @@
                 </div>
             </div>
         </div>
-      </div>
 
           <div class="row">
             <div class="col-lg-12">
@@ -255,7 +253,7 @@
                         </h3>
                       </div>
                       <div class="col-lg-6">
-                        <img class="img-responsive" style="margin: 0 auto;" src="pictures/Full/profile-placeholder.png" height="60%" width="60%" align="middle">
+                        <img class="img-responsive" style="margin: 0 auto;" src="pictures/Full/Architects/Theodore_Pletsch.png" height="60%" width="60%" align="middle">
                       </div>
                     </div>
                   </div>

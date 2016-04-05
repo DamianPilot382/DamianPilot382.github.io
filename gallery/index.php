@@ -19,13 +19,8 @@
 
 <body>
 
-	<style type="text/css">
-		body { background: url("../pictures/wallpaper/bg.jpg") !important;
-    font-family: baskerville !important;
-    }
-	</style>
-
     <?php
+        include('../layout.php');
         include('../navbar.php');
     ?>
 

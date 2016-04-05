@@ -37,6 +37,12 @@
 					</div>
 				</div>
 				<!-- /.row -->
+    <style>
+        a{
+            color:#00bb00;
+        }
+    </style>
+
 		    <div class="row">
 				<div class = "col-sm-6 col-md-4 col-lg-4">
       				<div class = "thumbnail">
@@ -230,17 +236,6 @@
 
                 <div class = "col-sm-6 col-md-4 col-lg-4">
                     <div class = "thumbnail">
-                <a href="Paul-Williams.php">
-                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
-                    </div>
-
-                    <div class = "caption">
-                        <h3>Paul Williams</a></h3>
-                    </div>
-                </div>
-
-                <div class = "col-sm-6 col-md-4 col-lg-4">
-                    <div class = "thumbnail">
                 <a href="George-Washington-Smith.php">
                         <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
                     </div>
@@ -249,9 +244,6 @@
                         <h3>George Washington Smith</a></h3>
                     </div>
                 </div>
-            </div>
-
-            <div class="row">
 
                 <div class = "col-sm-6 col-md-4 col-lg-4">
                     <div class = "thumbnail">
