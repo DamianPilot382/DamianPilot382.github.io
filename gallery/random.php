@@ -26,10 +26,10 @@
     $names[3] = str_replace("_", " ", $namesDash[3]);
     echo "    <style>
         #small {
-            width: 310px;
-            height: 200px;
-            max-height: 310px;
-            max-width: 200px;
+            width: 250px;
+            height: 170px;
+            max-height: 170px;
+            max-width: 250px;
             overflow:auto;
         }
         </style>";
