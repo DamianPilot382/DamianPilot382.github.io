@@ -252,7 +252,12 @@
           <div class="container">
 
 
-
+        <Style>
+        .wrap-words{
+    white-space:normal;
+    overflow-wrap: break-word;
+}
+        </style>
         <!-- Marketing Icons Section -->
 
         <div class="row">
@@ -279,7 +284,7 @@
 
                         <ul>
 
-                            <li>info@sanmarinoheritage.org</li>
+                            <li class="wrap-words">info@sanmarinoheritage.org</li>
 
                         </ul>
 
@@ -400,11 +405,6 @@
                             </p>
 
                         </h3>
-
-                        <br>
-
-                        <a href="http://sanmarinoheritage.org/docs/SMH_Membership_Form.pdf" class="btn btn-default" target="_blank">Click here for membership information.</a>
-
                     </div>
 
                 </div>
@@ -455,7 +455,7 @@
 
                             <br>
 
-                            <a href="/gallery" class="btn btn-default">Click here to go to the picture gallery.</a>
+                            <a href="/gallery" class="btn btn-default">Visit our picture gallery.</a>
 
                           </p>
 
@@ -503,7 +503,7 @@
 
                             <br>
 
-                            <a href="/architects0." class="btn btn-default">Click here to go to architect database.</a>
+                            <a href="/architects" class="btn btn-default">Visit our architect database.</a>
 
                           </p>
 

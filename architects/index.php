@@ -22,7 +22,18 @@
     <?php
         include('../layout.php');
         include('../navbar.php');
+        include('../pictureFinder.php');
     ?>
+
+    <style>
+    img {
+        width: 400px;
+        height:500px;
+        max-height:500px;
+        max-width: 400px;
+        overflow:auto;
+    }
+    </style>
 
     <!-- Page Content -->
     <div class="container">
@@ -43,220 +54,38 @@
         }
     </style>
 
-		    <div class="row">
-				<div class = "col-sm-6 col-md-4 col-lg-4">
-      				<div class = "thumbnail">
-                <a href="Harold-Bissner.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
-      				</div>
+        <?php
 
-     				<div class = "caption">
-         				<h3>Harold Bissner</a></h3>
-      				</div>
-   				</div>
+        $imagesDir = '../pictures/Architects/';
+        $images = glob($imagesDir . '*.{txt}', GLOB_BRACE);
 
-   				<div class = "col-sm-6 col-md-4 col-lg-4">
-      				<div class = "thumbnail">
-                <a href="Roland-Coate.php">
-         				<img src = "../pictures/Full/Architects/Roland_Coate.jpg" alt = "">
-      				</div>
-
-     				<div class = "caption">
-         				<h3>Roland Coate</a></h3>
-      				</div>
-   				</div>
-
-   				<div class = "col-sm-6 col-md-4 col-lg-4">
-      				<div class = "thumbnail">
-                <a href="Miller-Fong.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
-      				</div>
-
-     				<div class = "caption">
-         				<h3>Miller Fong</a></h3>
-      				</div>
-   				</div>
-   			</div>
-
-            <div class="row">
-				<div class = "col-sm-6 col-md-4 col-lg-4">
-      				<div class = "thumbnail">
-                <a href="Frank-D-Hudson.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
-      				</div>
-
-     				<div class = "caption">
-         				<h3>Frank D. Hudson</a></h3>
-      				</div>
-   				</div>
-
-   				<div class = "col-sm-6 col-md-4 col-lg-4">
-      				<div class = "thumbnail">
-                <a href="Myron-Hunt.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
-      				</div>
-
-     				<div class = "caption">
-         				<h3>Myron-Hunt</a></h3>
-      				</div>
-   				</div>
-
-                <div class = "col-sm-6 col-md-4 col-lg-4">
-                    <div class = "thumbnail">
-                <a href="Reginald-D-Johnson.php">
-                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
-                    </div>
-
-                    <div class = "caption">
-                        <h3>Reginald D. Johnson</a></h3>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-
-                <div class = "col-sm-6 col-md-4 col-lg-4">
-                    <div class = "thumbnail">
-                <a href="Gordon-Kaufmann.php">
-                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
-                    </div>
-
-                    <div class = "caption">
-                        <h3>Gordon Kaufmann</a></h3>
-                    </div>
+        $i = 3;
+        $j = 0;
+        foreach($images as $pic){
+            $i++;
+            $j++;
+            if($i >= 3){
+                print "<div class=\"row\">";
+                $i = 0;
+            }
+            echo "<div class = \"col-sm-6 col-md-4 col-lg-4\">
+                <div class = \"thumbnail\">
+            <a href=\"../architects/architect.php?id=".str_replace(".txt", "", str_replace($imagesDir, "", $pic))."\">
+                    <img sstyle=\"width:600px;height:228px;\" src=\"".$imagesDir.getPicture(str_replace($imagesDir, "", str_replace(".txt", "", $pic)), false)."\" alt = \"\">
                 </div>
 
-                <div class = "col-sm-6 col-md-4 col-lg-4">
-                    <div class = "thumbnail">
-                <a href="H-Roy-Kelly.php">
-                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
-                    </div>
-
-                    <div class = "caption">
-                        <h3>H. Roy Kelly</a></h3>
-                    </div>
+                <div class = \"caption\">
+                    <h3>".str_replace("_", " ", str_replace(".txt", "", str_replace($imagesDir, "", $pic)))."</a></h3>
                 </div>
+            </div>";
+            if($j >= 3){
+                echo "</div>";
+                $j = 0;
+            }
+        }
 
-                <div class = "col-sm-6 col-md-4 col-lg-4">
-                    <div class = "thumbnail">
-                <a href="Jack-De-Long.php">
-                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
-                    </div>
+        ?>
 
-                    <div class = "caption">
-                        <h3>Jack De Long</a></h3>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-
-   				<div class = "col-sm-6 col-md-4 col-lg-4">
-      				<div class = "thumbnail">
-                <a href="Sylvanus-Martson.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
-      				</div>
-
-     				<div class = "caption">
-         				<h3>Sylvanus Martson</a></h3>
-      				</div>
-   				</div>
-
-				<div class = "col-sm-6 col-md-4 col-lg-4">
-      				<div class = "thumbnail">
-                <a href="William-A-Munsell.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
-      				</div>
-
-     				<div class = "caption">
-         				<h3>William A. Munsell</a></h3>
-      				</div>
-   				</div>
-
-                <div class = "col-sm-6 col-md-4 col-lg-4">
-                    <div class = "thumbnail">
-                <a href="Wallace-Neff.php">
-                        <img src = "../pictures/Full/Architects/Wallace_Neff.jpg" alt = "">
-                    </div>
-
-                    <div class = "caption">
-                        <h3>Wallace Neff</a></h3>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-
-                <div class = "col-sm-6 col-md-4 col-lg-4">
-                    <div class = "thumbnail">
-                <a href="Theodore-Pletsch.php">
-                        <img src = "../pictures/Full/Architects/Theodore_Pletsch.png" alt = "">
-                    </div>
-
-                    <div class = "caption">
-                        <h3>Theodore Pletsch</a></h3>
-                    </div>
-                </div>
-
-                <div class = "col-sm-6 col-md-4 col-lg-4">
-                    <div class = "thumbnail">
-                <a href="Paul-R-Williams.php">
-                        <img src = "../pictures/Full/Architects/Paul_R_Williams.jpg" alt = "">
-                    </div>
-
-                    <div class = "caption">
-                        <h3>Paul R. Williams</a></h3>
-                    </div>
-                </div>
-
-                <div class = "col-sm-6 col-md-4 col-lg-4">
-                    <div class = "thumbnail">
-                <a href="G-Lawrence-Stimpson.php">
-                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
-                    </div>
-
-                    <div class = "caption">
-                        <h3>G Lawrence Stimpson</a></h3>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-
-                <div class = "col-sm-6 col-md-4 col-lg-4">
-      				<div class = "thumbnail">
-                <a href="Garrett-Van-Pelt.php">
-         				<img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
-      				</div>
-
-     				<div class = "caption">
-         				<h3>Garrett Van Pelt</a></h3>
-      				</div>
-   				</div>
-
-                <div class = "col-sm-6 col-md-4 col-lg-4">
-                    <div class = "thumbnail">
-                <a href="George-Washington-Smith.php">
-                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
-                    </div>
-
-                    <div class = "caption">
-                        <h3>George Washington Smith</a></h3>
-                    </div>
-                </div>
-
-                <div class = "col-sm-6 col-md-4 col-lg-4">
-                    <div class = "thumbnail">
-                <a href="Harold-Zook.php">
-                        <img src = "../pictures/Full/placeholder-architect.jpg" alt = "">
-                    </div>
-
-                    <div class = "caption">
-                        <h3>Harold Zook</a></h3>
-                    </div>
-                </div>
-
-   			</div>
 
         </div>
     </div>

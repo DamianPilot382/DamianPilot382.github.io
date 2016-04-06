@@ -61,7 +61,7 @@
                         </div>
 
                         <?php
-                            //include('random.php');
+                            include('random.php');
                         ?>
 
                     </div>
