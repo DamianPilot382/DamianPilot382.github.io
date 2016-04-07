@@ -1,6 +1,6 @@
 <?php
 
-$musicDir = '../music/';
+$musicDir = 'music/';
 $songs = glob($musicDir . '*.{mp3}', GLOB_BRACE);
 $song = $songs[array_rand($songs)];
 echo "<audio controls autoplay=\"false\" loop=\"true\">

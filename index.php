@@ -140,54 +140,33 @@
                         <center>
 
                         <br>
-
                     </div>
-
                 </div>
-
                 <div class="col-lg-3">
-
                 </div>
-
             </div>
-
         </div>
 
+
+
 		<div class="row">
-
-			<div class="col-lg-3">
+	        <div class="col-lg-3">
 			</div>
-
             <div class="col-lg-6">
-
                 <div class="panel panel-default">
-
                     <div class="panel-body">
-
                         <h4>
-
                             <p style="text-align:center"><i>Music courtesy of The Dad's Band Plus One, founded by San Marino native Mr. Andrew Campbell, from the album "The Nashville Sessions".</i></p>
-
                         </h4>
-
                         <br>
-
                         <center>
-
                         <?php
-
-                            //include('music.php');
-
+                            include('musicFirst.php');
                         ?>
-
                     </center>
-
                     </div>
-
                 </div>
-
             </div>
-
         </div>
 
 
@@ -385,12 +364,6 @@
 
                         <h3>
 
-                            <p>January 9, 2009
-
-                                <br>
-
-                                <br>
-
                                 Dear Fellow Preservationists,
 
                                 <br>
@@ -445,7 +418,14 @@
 
                         </h3>
                     </div>
-
+                    <center>
+                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="KYUH6U4SSYLXU">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</center>
                 </div>
 
             </div>
@@ -585,7 +565,17 @@
                 <div class="col-lg-12">
 
                     <p>Copyright &copy, 2016 San Marino Heritage, All Rights Reserved</p>
+                    <center>
+                        <!-- hitwebcounter Code START -->
+                        <a href="http://www.hitwebcounter.com" target="_blank">
+                        <img src="http://hitwebcounter.com/counter/counter.php?page=6359817&style=0006&nbdigits=6&type=ip&initCount=0" title="website counter" Alt="website counter"   border="0" >
+                        </a>                                        <br/>
+                                                                <!-- hitwebcounter.com --><a href="http://www.hitwebcounter.com" title="Stats For Free"
+                                                                target="_blank" style="font-family: Arial, Helvetica, sans-serif;
+                                                                font-size: 9px; color: #736C65; text-decoration: none ;"><em>Stats For Free                                        </em>
+                                                                </a>
 
+                    </center>
                 </div>
 
             </div>
