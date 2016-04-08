@@ -56,11 +56,23 @@ function initMap() {
         map: map,
         title: 'Placeholder Text'
     });
+    var info1 = new google.maps.InfoWindow({
+        content: "Enter text here."
+    });
+    marker1.addListener('click', function() {
+        info1.open(map, marker1);
+    });
 
     var marker2 = new google.maps.Marker({
         position: loc2,
         map: map,
         title: 'Placeholder Text'
+    });
+    var info2 = new google.maps.InfoWindow({
+        content: "Enter text here."
+    });
+    marker2.addListener('click', function() {
+        info2.open(map, marker2);
     });
 
     var marker3 = new google.maps.Marker({
@@ -68,11 +80,23 @@ function initMap() {
         map: map,
         title: 'Placeholder Text'
     });
+    var info3 = new google.maps.InfoWindow({
+        content: "Enter text here."
+    });
+    marker3.addListener('click', function() {
+        info3.open(map, marker3);
+    });
 
     var marker4 = new google.maps.Marker({
         position: loc4,
         map: map,
         title: 'Placeholder Text'
+    });
+    var info4 = new google.maps.InfoWindow({
+        content: "Enter text here."
+    });
+    marker4.addListener('click', function() {
+        info4.open(map, marker4);
     });
 
     var marker5 = new google.maps.Marker({
@@ -80,11 +104,23 @@ function initMap() {
         map: map,
         title: 'Placeholder Text'
     });
+    var info5 = new google.maps.InfoWindow({
+        content: "Enter text here."
+    });
+    marker5.addListener('click', function() {
+        info5.open(map, marker5);
+    });
 
     var marker6 = new google.maps.Marker({
         position: loc6,
         map: map,
         title: 'Placeholder Text'
+    });
+    var info6 = new google.maps.InfoWindow({
+        content: "Enter text here."
+    });
+    marker6.addListener('click', function() {
+        info6.open(map, marker6);
     });
 
     var marker7 = new google.maps.Marker({
@@ -92,11 +128,23 @@ function initMap() {
         map: map,
         title: 'Placeholder Text'
     });
+    var info7 = new google.maps.InfoWindow({
+        content: "Enter text here."
+    });
+    marker7.addListener('click', function() {
+        info7.open(map, marker7);
+    });
 
     var marker8 = new google.maps.Marker({
         position: loc8,
         map: map,
         title: 'Placeholder Text'
+    });
+    var info8 = new google.maps.InfoWindow({
+        content: "Enter text here."
+    });
+    marker8.addListener('click', function() {
+        info8.open(map, marker8);
     });
 
     var marker9 = new google.maps.Marker({
@@ -104,17 +152,36 @@ function initMap() {
         map: map,
         title: 'Placeholder Text'
     });
+    var info9 = new google.maps.InfoWindow({
+        content: "Enter text here."
+    });
+    marker9.addListener('click', function() {
+        info9.open(map, marker9);
+    });
 
     var marker10 = new google.maps.Marker({
         position: loc10,
         map: map,
         title: 'Placeholder Text'
     });
+    var info10 = new google.maps.InfoWindow({
+        content: "Enter text here."
+    });
+    marker10.addListener('click', function() {
+        info10.open(map, marker10);
+    });
+
 
     var marker11 = new google.maps.Marker({
         position: loc11,
         map: map,
         title: 'Placeholder Text'
+    });
+    var info11 = new google.maps.InfoWindow({
+        content: "Enter text here."
+    });
+    marker11.addListener('click', function() {
+        info11.open(map, marker11);
     });
 
     var marker12 = new google.maps.Marker({
@@ -122,11 +189,23 @@ function initMap() {
         map: map,
         title: 'Placeholder Text'
     });
+    var info12 = new google.maps.InfoWindow({
+        content: "Enter text here."
+    });
+    marker12.addListener('click', function() {
+        info12.open(map, marker12);
+    });
 
     var marker13 = new google.maps.Marker({
         position: loc13,
         map: map,
         title: 'Placeholder Text'
+    });
+    var info13 = new google.maps.InfoWindow({
+        content: "Enter text here."
+    });
+    marker13.addListener('click', function() {
+        info13.open(map, marker13);
     });
 
     var marker14 = new google.maps.Marker({
@@ -134,6 +213,15 @@ function initMap() {
         map: map,
         title: 'Placeholder Text'
     });
+    var info14 = new google.maps.InfoWindow({
+        content: "Enter text here."
+    });
+    marker14.addListener('click', function() {
+        info14.open(map, marker14);
+    });
+
+
+
 
 }
 

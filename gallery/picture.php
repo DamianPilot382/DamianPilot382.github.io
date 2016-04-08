@@ -67,26 +67,6 @@
                     </div>
                 </div>
             </div>
-
-                <div class="row">
-                    <div class="col-lg-3">
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="panel panel-default">
-                            <div class="panel-body">
-                                <h4>
-                                    <p style="text-align:center"><i>Music courtesy of The Dad's Band Plus One, founded by San Marino native Mr. Andrew Campbell, from the album "The Nashville Sessions".</i></p>
-                                </h4>
-                                <br>
-                                <center>
-                                <?php
-                                    include('../music.php');
-                                ?>
-                            </center>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             <!-- /.row -->
 
             <hr>

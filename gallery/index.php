@@ -104,9 +104,9 @@
                         $i = 0;
                     }
                     echo "<div class = \"col-sm-6 col-md-4 col-lg-4\">
-                        <div class = \"thumbnail\">
+                        <div class = \"thumbnail\" style=\"margin-top:40px;\">
                     <a href=\"../gallery/picture.php?id=".str_replace(".png", "", str_replace(".gif", "", str_replace($imagesDir, "", str_replace(".jpg", " ", $pic))))."\">
-                            <img sstyle=\"width:600px;height:228px;\" src=\"".$pic."\" alt = \"\">
+                            <img style=\"margin-bottom:-20px;\" src=\"".$pic."\" alt = \"\">
                         </div>
 
                         <div class = \"caption\">
@@ -125,26 +125,6 @@
    			</div>
 			</div>
 		</div>
-
-        <div class="row">
-            <div class="col-lg-3">
-            </div>
-            <div class="col-lg-6">
-                <div class="panel panel-default">
-                    <div class="panel-body">
-                        <h4>
-                            <p style="text-align:center"><i>Music courtesy of The Dad's Band Plus One, founded by San Marino native Mr. Andrew Campbell, from the album "The Nashville Sessions".</i></p>
-                        </h4>
-                        <br>
-                        <center>
-                        <?php
-                            include('../music.php');
-                        ?>
-                    </center>
-                    </div>
-                </div>
-            </div>
-        </div>
         </div>
 
 	</div>

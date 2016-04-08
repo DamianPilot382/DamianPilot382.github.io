@@ -92,11 +92,9 @@
 
                 <h3>
 
-                   Preserving architectural heritage is always important for a community, and we thank you for assisting us with this mission.<br>
-
-				   Through your time, talent and "trea$ure," we will take a stand for preservation and against LLC development abuses in San Marino.<br>
-
-				   Your donations will help with the cost of DRC appeals, administrative costs, marketing, programs and education, and are a necessary part of our preservation efforts.<br><br>
+                   Preserving architectural heritage is always important for a community, and we thank you for assisting us with this mission.
+                   Through your time, talent and "trea$ure," we will take a stand for preservation and against LLC development abuses in San Marino.
+                   Your donations will help with the cost of DRC appeals, administrative costs, marketing, programs and education, and are a necessary part of our preservation efforts.<br><br>
 
 				   Thank you for supporting San Marino Heritage.<br><br>
 
@@ -132,26 +130,6 @@
 
 
 
-        </div>
-
-        <div class="row">
-            <div class="col-lg-3">
-            </div>
-            <div class="col-lg-6">
-                <div class="panel panel-default">
-                    <div class="panel-body">
-                        <h4>
-                            <p style="text-align:center"><i>Music courtesy of The Dad's Band Plus One, founded by San Marino native Mr. Andrew Campbell, from the album "The Nashville Sessions".</i></p>
-                        </h4>
-                        <br>
-                        <center>
-                        <?php
-                            include('../music.php');
-                        ?>
-                    </center>
-                    </div>
-                </div>
-            </div>
         </div>
 
     </div>

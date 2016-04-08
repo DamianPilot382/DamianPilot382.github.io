@@ -103,71 +103,41 @@
 
         <div class="row">
 
-            <div class="col-lg-12">
+            <div class="col-lg-8">
 
                 <img class="img-responsive" src="pictures/Assets/banner.PNG" style="margin: 0 auto; margin-top: 20px; margin-bottom: 40px;">
 
             </div>
+              <div class="col-lg-4" style="margin-top:20px;">
+
+                  <div class="panel panel-default">
+
+                      <div class="panel-body">
+
+                          <h4>
+
+                              <p style="text-align:center">Follow us on:</p>
+
+                          </h4>
+
+                          <center>
+
+                          <a href="https://www.facebook.com/sanmarinoheritage/"><img style="margin:10px;" src="pictures/Assets/facebook.png" width="80px"></a>
+
+                          <a href="https://www.etsy.com/shop/SanMarinoHeritage?ref=search_shop_redirect"><img style="margin:10px;" src="pictures/Assets/etsy.gif" width="80px"></a>
+
+                          <a href="https://www.causes.com/causes/378040-san-marino-heritage"><img style="margin:10px;" src="pictures/Assets/causes.png" width="80px"></a>
+
+                          <center>
+
+                          <br>
+                      </div>
+                  </div>
+              </div>
 
         </div>
 
-          <div class="row">
 
-            <div class="col-lg-4">
-
-            </div>
-
-            <div class="col-lg-4">
-
-                <div class="panel panel-default">
-
-                    <div class="panel-body">
-
-                        <h4>
-
-                            <p style="text-align:center">Follow us on:</p>
-
-                        </h4>
-
-                        <center>
-
-                        <a href="https://www.facebook.com/sanmarinoheritage/"><img style="margin:10px;" src="pictures/Assets/facebook.png" width="80px"></a>
-
-                        <a href="https://www.etsy.com/shop/SanMarinoHeritage?ref=search_shop_redirect"><img style="margin:10px;" src="pictures/Assets/etsy.gif" width="80px"></a>
-
-                        <a href="https://www.causes.com/causes/378040-san-marino-heritage"><img style="margin:10px;" src="pictures/Assets/causes.png" width="80px"></a>
-
-                        <center>
-
-                        <br>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                </div>
-            </div>
-        </div>
-
-
-
-		<div class="row">
-	        <div class="col-lg-3">
-			</div>
-            <div class="col-lg-6">
-                <div class="panel panel-default">
-                    <div class="panel-body">
-                        <h4>
-                            <p style="text-align:center"><i>Music courtesy of The Dad's Band Plus One, founded by San Marino native Mr. Andrew Campbell, from the album "The Nashville Sessions".</i></p>
-                        </h4>
-                        <br>
-                        <center>
-                        <?php
-                            include('musicFirst.php');
-                        ?>
-                    </center>
-                    </div>
-                </div>
-            </div>
-        </div>
 
 
 
@@ -278,6 +248,28 @@
         </style>
         <!-- Marketing Icons Section -->
 
+
+        <div class="row">
+	        <div class="col-lg-3">
+			</div>
+            <div class="col-lg-6">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <h4>
+                            <p style="text-align:center"><i>Music courtesy of The Dad's Band Plus One, founded by San Marino native Mr. Andrew Campbell, from the album "The Nashville Sessions".</i></p>
+                        </h4>
+                        <br>
+                        <center>
+                        <?php
+                            include('musicFirst.php');
+                        ?>
+                    </center>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
         <div class="row">
 
             <a name="contact"></a>
@@ -356,7 +348,7 @@
 
                     <div class="panel-heading">
 
-                        <h4><i class="fa fa-fw fa-check"></i>San Marino Heritage Letter</h4>
+                        <h4><i class="fa fa-fw fa-check"></i>A letter from your founder, Shirley Jagels...</h4>
 
                     </div>
 
